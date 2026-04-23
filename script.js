@@ -72,3 +72,5 @@ Promise.all([p1, p3])
     .catch((error) => {
         console.error("Promise.all error:", error);
     });
+
+    console.log("first")
