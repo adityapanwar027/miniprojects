@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# build folders
+dist/
+build/
+
+# optional
+coverage/
+>>>>>>> d2c0b1fc4ad015ee137a5fec074d5d1e04fa6946
